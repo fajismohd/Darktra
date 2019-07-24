@@ -4,6 +4,11 @@
     "description": "a minimal dark theme",
     "version": "0.0.1",
     "publisher": "fajismohd",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fajismohd/Darktra"
+    },
+    "icon": "icon.png",
     "author": {
         "name": "fajis mohd",
         "email": "fajismohd@outlook.com",
