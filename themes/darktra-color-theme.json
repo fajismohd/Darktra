@@ -79,16 +79,16 @@
         "badge.background": "#66737f",
         "badge.foreground": "#ffffff",
 
-        "button.background": "#ffcc66aa",
+        "button.background": "#7d66ffaa",
         "button.foreground": "#ffffff",
-        "button.hoverBackground": "#ffcc66bb",
+        "button.hoverBackground": "#7566ffbb",
 
         "diffEditor.insertedTextBackground": "#95e6cb44",
         "diffEditor.removedTextBackground": "#f0717844",
 
-        "extensionButton.prominentBackground": "#ffcc66aa",
+        "extensionButton.prominentBackground": "#668fffaa",
         "extensionButton.prominentForeground": "#ffffff",
-        "extensionButton.prominentHoverBackground": "#ffcc66bb",
+        "extensionButton.prominentHoverBackground": "#66a8ffbb",
 
         "input.background": "#182024",
         "input.border": "#262e36",
@@ -549,7 +549,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#6b9aff"
 			}
 		},
 		{
