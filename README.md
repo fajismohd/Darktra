@@ -1,5 +1,5 @@
-# README
-## This is the README for your extension "darktra"
+# Darktra
+a simplified #000 minimal dark theme
 
 ### For more information
 
