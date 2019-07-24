@@ -2,7 +2,7 @@
     "name": "darktra",
     "displayName": "Darktra",
     "description": "a minimal dark theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "fajismohd",
     "repository": {
         "type": "git",
@@ -13,7 +13,6 @@
         "name": "fajis mohd",
         "email": "fajismohd@outlook.com",
         "url": "https://www.fajismohd.cf"
-        
     },
     "engines": {
         "vscode": "^1.36.0"
