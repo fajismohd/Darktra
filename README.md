@@ -1,9 +1,9 @@
 # [Darktra](https://marketplace.visualstudio.com/items?itemName=FAJISMOHD.darktra)
 *a minimal modern dark theme that simplifies perfect visions!*
 
-![Primal](assets/darktra-cover.png)
-![Primal](assets/darktra-html.gif)
-![Primal](assets/darktrav2.png)
+![Darktra](assets/darktra-cover.png)
+![Darktra](assets/darktra-html.gif)
+![Darktra](assets/darktrav2.png)
 
 ## Settings used
  if you need extra look as shown in those images,
@@ -21,6 +21,6 @@
 
 
 
-### [For more information](https://fajismohd.cf)
+### [Author](https://fajismohd.com)
 
 **Enjoy!**
